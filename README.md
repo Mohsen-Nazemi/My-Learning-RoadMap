@@ -26,5 +26,14 @@ My learning path
   - [URI](https://developer.mozilla.org/en-US/docs/Glossary/URI)
 
 - [x] **HTTP**
+  - [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
+  - [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 
-  
+
+***  
+# HTML
+  - [W3Schools: Learn HTML](https://www.w3schools.com/html/default.asp)
+
+***
+# CSS
+  - [W3Schools: Learn CSS](https://www.w3schools.com/css/)
