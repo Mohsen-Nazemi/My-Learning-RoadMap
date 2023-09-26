@@ -37,3 +37,17 @@ My learning path
 ***
 # CSS
   - [W3Schools: Learn CSS](https://www.w3schools.com/css/)
+
+***
+# JAVASCRIPT :)
+
+## [**JavaScript first steps (30–40 hour read/exercises)**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+  - [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+  - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  - [A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+  - [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
+
+  **variables:**
+  - [Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+  - [Test your skills: variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
+  
