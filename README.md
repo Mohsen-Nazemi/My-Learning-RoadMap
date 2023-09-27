@@ -50,4 +50,17 @@ My learning path
   **variables:**
   - [Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
   - [Test your skills: variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_variables)
+  - [camelCase](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case)
   
+
+  **Hoisting**
+  - [first article](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)
+  - [second article](https://www.programiz.com/javascript/hoisting)
+
+  **JS Scope**
+  - [first article](https://www.w3schools.com/js/js_scope.asp)
+  - [second article](https://www.programiz.com/javascript/variable-scope)
+  - [third article](https://blog.webdevsimplified.com/2022-10/js-scoping/)
+
+
+
