@@ -61,6 +61,22 @@ My learning path
   - [first article](https://www.w3schools.com/js/js_scope.asp)
   - [second article](https://www.programiz.com/javascript/variable-scope)
   - [third article](https://blog.webdevsimplified.com/2022-10/js-scoping/)
+  - [fourth article](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+  - [fifth article](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+
+---
+  - [Basic math in JavaScript — numbers and operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+  - [Test your skills: Math](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Math)
+  
+---
+  - [Handling text — strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+
+  - [Useful string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods#strings_as_objects)
+  - [Test your skills: Strings](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings)
+  - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+  - [Test your skills: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays)
+  - [exercise: Silly story generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
+
 
 
 
