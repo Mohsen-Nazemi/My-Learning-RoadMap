@@ -84,4 +84,5 @@ My learning path
 
   - [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
   - [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+  - [Test your skills: Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals)
   - [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
