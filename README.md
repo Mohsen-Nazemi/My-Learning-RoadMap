@@ -42,6 +42,9 @@ My learning path
 # JAVASCRIPT :)
 
 ## [**JavaScript first steps (30–40 hour read/exercises)**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+
+### JavaScript first steps
+
   - [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
   - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   - [A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
@@ -77,6 +80,8 @@ My learning path
   - [Test your skills: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays)
   - [exercise: Silly story generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
+### JavaScript building blocks
 
-
-
+  - [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
+  - [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+  - [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
