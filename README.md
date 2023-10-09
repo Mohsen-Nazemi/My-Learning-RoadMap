@@ -43,7 +43,6 @@ My learning path
 
 ## [**JavaScript first steps (30–40 hour read/exercises)**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
-### JavaScript first steps
 
   - [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
   - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
@@ -80,9 +79,13 @@ My learning path
   - [Test your skills: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays)
   - [exercise: Silly story generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
-### JavaScript building blocks
+## JavaScript building blocks (25–35 hour read/exercises)
 
   - [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
   - [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
   - [Test your skills: Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals)
   - [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
+  - [Test your skills: Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Loops)
+  - [Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+  - [Test your skills: Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
+  - [Build your own function](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
