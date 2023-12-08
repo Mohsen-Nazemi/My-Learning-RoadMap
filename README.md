@@ -89,3 +89,26 @@ My learning path
   - [Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
   - [Test your skills: Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
   - [Build your own function](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
+  - [Function return values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
+  - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+
+
+***
+
+# Vue.js
+
+## [Vue Official Documentation](https://vuejs.org/guide/introduction.html)
+
+**Getting Started**
+- Introduction
+- Quick Start
+
+**Essentials**
+- Creating an Application
+- Template Syntax
+- Reactivity Fundamentals
+- Computed Properties
+- Class and Style Bindings
+- Conditional Rendering
+- List Rendering
