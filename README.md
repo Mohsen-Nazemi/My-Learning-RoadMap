@@ -116,3 +116,16 @@ My learning path
 - Form Input Bindings
 - Lifecycle Hooks + ([**Youtube video**](https://www.youtube.com/watch?v=hk6OktYj8Fs))
 - Watchers + ((**First Youtube Video**)[https://www.youtube.com/watch?v=afacrmHQtUw], (**Second Video)[https://www.youtube.com/watch?v=x0lOF5tjXXU])
+- Template Refs
+- Components Basics
+
+**Components In-Depth**
+
+- Registration
+- Props
+- Events
+- Component v-model
+- Fallthrough Attributes
+- Slots
+- Provide / inject
+- Async Components
