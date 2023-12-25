@@ -39,7 +39,7 @@ My learning path
   - [W3Schools: Learn CSS](https://www.w3schools.com/css/)
 
 ***
-# JAVASCRIPT :)
+# JAVASCRIPT 
 
 ## [**JavaScript first steps (30–40 hour read/exercises)**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
@@ -92,6 +92,14 @@ My learning path
   - [Function return values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
   - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
+## Introducing JavaScript objects
+
+- Introducing JavaScript objects
+- JavaScript object basics
+- Object prototypes
+- Object-oriented programming
+- Classes in JavaScript
+- Working with JSON
 
 
 ***
