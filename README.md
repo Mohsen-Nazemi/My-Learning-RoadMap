@@ -41,7 +41,7 @@ My learning path
 ***
 # JAVASCRIPT 
 
-## [**JavaScript first steps (30–40 hour read/exercises)**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+## JavaScript first steps
 
 
   - [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
@@ -79,7 +79,7 @@ My learning path
   - [Test your skills: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays)
   - [exercise: Silly story generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
-## JavaScript building blocks (25–35 hour read/exercises)
+## JavaScript building blocks
 
   - [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
   - [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
@@ -94,12 +94,23 @@ My learning path
 
 ## Introducing JavaScript objects
 
-- Introducing JavaScript objects
-- JavaScript object basics
-- Object prototypes
-- Object-oriented programming
-- Classes in JavaScript
-- Working with JSON
+- [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+- [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+- [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+- [Classes in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+- [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+
+
+## Asynchronous JavaScript
+- Asynchronous JavaScript
+- Introducing asynchronous JavaScript
+- How to use promises
+- How to implement a promise-based API
+- Introducing workers
+- Sequencing animations
+
 
 
 ***
@@ -137,3 +148,15 @@ My learning path
 - Slots
 - Provide / inject
 - Async Components
+
+
+
+
+
+# Nest.js (Udemy Course: [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/))
+
+- chap 1 - Get Started Here!
+- chap 2 - The Basics of Nest
+- chap 3 - Generating Projects with the Nest CLI
+- chap 4 - Validating Request Data with Pipes
+  
